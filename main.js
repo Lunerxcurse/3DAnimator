@@ -1222,17 +1222,17 @@ class BlenderClone {
           </p>
           <p style="font-size: 14px; color: var(--text-secondary); margin-bottom: 30px;">
             Check out my other projects at <br>
-            <a href="https://profilepage-com.pages.dev/" target="_blank" style="color: var(--accent-blue); text-decoration: none;">
-              https://profilepage-com.pages.dev/
+            <a href="https://pakodev-profile.pages.dev/" target="_blank" style="color: var(--accent-blue); text-decoration: none;">
+              https://pakodev-profile.pages.dev/
             </a>
           </p>
           
           <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <a href="https://www.roblox.com/users/4819145/profile" target="_blank" class="social-btn">
+            <a href="https://www.roblox.com/users/151815165/profile" target="_blank" class="social-btn">
               <img src="https://i.pinimg.com/originals/1a/c6/c5/1ac6c5d7cbf6c64b13923d7e258f34a3.jpg" width="20" height="20" style="border-radius: 4px;" alt="Roblox">
               <span>Roblox</span>
             </a>
-            <a href="http://discord.com/users/1395993370245206129" target="_blank" class="social-btn">
+            <a href="https://discord.com/users/1311869629714399342" target="_blank" class="social-btn">
               <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" width="20" height="20" style="border-radius: 4px;" alt="Discord">
               <span>Discord</span>
             </a>
